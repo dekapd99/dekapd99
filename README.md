@@ -1,7 +1,7 @@
 <h4 align="center"> Hello 👋 my name is Deka. Don't mind me, i am just doing my thing here. <h4>
 <div>    
   <div align="center">
-    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=dekapd99&theme=merko" />
+    <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=dekapd99&theme=shades-of-purple" />
   </div>
     
   <br>
@@ -25,6 +25,6 @@
 
 ## Git Status
 <div>
-  <img align="left" width="46.5%" src="https://github-readme-stats.vercel.app/api?username=dekapd99&include_all_commits=true&show_icons=true&theme=merko" />
-  <img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekapd99&layout=compact" />
+  <img align="left" width="46.5%" src="https://github-readme-stats.vercel.app/api?username=dekapd99&include_all_commits=true&show_icons=true&theme=shades-of-purple" />
+  <img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekapd99&layout=compact&theme=shades-of-purple" />
 </div>
