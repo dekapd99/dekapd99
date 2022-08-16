@@ -25,6 +25,6 @@
 
 ## Git Status
 <div>
-  <img align="left" width="46.5%" src="https://github-readme-stats.vercel.app/api?username=dekapd99&include_all_commits=true&show_icons=true&theme=shades-of-purple" />
+  <img align="left" width="46.5%" src="https://github-readme-stats.vercel.app/api?username=dekapd99&show_icons=true&theme=shades-of-purple" />
   <img align="right" width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dekapd99&layout=compact&theme=shades-of-purple" />
 </div>
