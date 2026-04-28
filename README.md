@@ -1,4 +1,4 @@
-<h4 align="center"> Hello 👋 my name is Deka. Don't mind me, i am just doing my thing here. <h4>
+<h4 align="center"> Hello 👋 my name is Deka. Don't mind me, i am just doing my things here. <h4>
 <div>    
   <div align="center">
     <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=dekapd99&theme=shades-of-purple" />
